@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.config",
+    "\\cypress",
+    "\\cypress\\downloads",
+    "\\cypress\\e2e",
+    "\\cypress\\fixtures",
+    "\\cypress\\pageObject",
+    "\\cypress\\screenshots",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\.config\\dotnet-tools.json",
+  "PreviewInSolutionExplorer": false
+}
